@@ -1,3 +1,11 @@
-const sumar = () =>{
-  
+const sumar = (x, y) =>{
+  return x + y;
+}
+
+const restar = (x, y) =>{
+  return x - y;
+}
+
+const multiplicar = (x, y) =>{
+  return x * y;
 }
